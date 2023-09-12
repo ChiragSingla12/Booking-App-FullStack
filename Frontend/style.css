@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #3498db;
+}
+
+.container{
+
+    text-align: center;
+    align-items: center;
+
+}
+
+
+h1{
+    text-align: center;
+    /* margin: 50px; */
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.heading{
+    background-color: rgb(236, 112, 112);
+    margin: 50px;
+    /* padding: 2px; */
+}
